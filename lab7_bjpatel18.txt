@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running /home/ubuntu/ops445/lab7/CheckLab7.py
+========================================================================================
+    User login name: ubuntu
+    Linux system name: bjpatel18
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/ubuntu/ops445/lab7
+    Start at: Fri Dec  5 03:31:11 2025
+========================================================================================
